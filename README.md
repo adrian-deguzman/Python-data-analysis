@@ -14,7 +14,7 @@ This project demonstrates foundational machine learning techniques using **sciki
 - Classification using scikit-learn models  
 - Regression using linear models  
 - Dataset preprocessing and splitting  
-- Basic performance metrics (accuracy, MSE, etc.)
+- Basic performance metrics
 
 ## Tech Stack
 
